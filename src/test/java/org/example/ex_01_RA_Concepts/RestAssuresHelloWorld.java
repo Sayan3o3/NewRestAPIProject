@@ -1,4 +1,4 @@
-package org.example.sample;
+package org.example.ex_01_RA_Concepts;
 
 import io.restassured.RestAssured;
 
