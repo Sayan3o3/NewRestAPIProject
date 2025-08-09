@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/Sayan Giri/IdeaProjects/NewRestAPIProject">
+        <classes>
+            <class name="org.example.ex_06_TestAssetions.APITesting027_RestAssured_TestNG_AssertJ_Assertions">
+
+            </class>
+
+        </classes>
+    </test>
+</suite>
